@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://zmh.github.io
+title: Arguments
+email: 
+author: Zach Hamed
+description: My awesome new site
+paginate: 50
+google_analytics: 
